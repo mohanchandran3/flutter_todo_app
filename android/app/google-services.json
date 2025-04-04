@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1068893898356",
+    "firebase_url": "https://todoappwithsharing-default-rtdb.firebaseio.com",
+    "project_id": "todoappwithsharing",
+    "storage_bucket": "todoappwithsharing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068893898356:android:63f9ecf79a0e2ab2253321",
+        "android_client_info": {
+          "package_name": "com.example.flutter_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-vW2ONtFaTJcdvQC59yYfSAVqN7Zzcn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
